@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Request a Leave",
+    "url": "leave-request",
+    "description": "Need some time off? This assistant helps you write a formal leave request email in seconds.",
+    "tip": "Include dates and a brief reason to make the email more effective."
+  },
+  {
+    "id": "2",
+    "name": "Request a Meeting",
+    "url": "meeting-request",
+    "description": "Set up a meeting with clarity and professionalism using this assistant.",
+    "tip": "Mention preferred dates, times, and the meeting's purpose for clarity."
+  },
+  {
+    "id": "3",
+    "name": "Follow Up on Application",
+    "url": "application-followup",
+    "description": "Haven't heard back after applying? Use this to craft a polite and effective follow-up.",
+    "tip": "Reference the job title and the date of your original application."
+  },
+  {
+    "id": "4",
+    "name": "Resignation Email",
+    "url": "resignation",
+    "description": "Leaving your job? This assistant helps you exit professionally with a respectful resignation email.",
+    "tip": "State your intent clearly and optionally offer a notice period."
+  },
+  {
+    "id": "5",
+    "name": "Client Proposal",
+    "url": "client-proposal",
+    "description": "Pitch your service or product with a compelling, professional proposal email.",
+    "tip": "Be clear about the value you offer and include a call to action."
+  },
+  {
+    "id": "6",
+    "name": "Apology Email",
+    "url": "apology",
+    "description": "Make things right. Use this bot to write a sincere, professional apology email.",
+    "tip": "Be brief, honest, and take accountability."
+  }
+]
